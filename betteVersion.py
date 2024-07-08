@@ -97,3 +97,5 @@ while True:
         break
     else:
         print("re-enter")
+t = time.strftime("%b %d, %Y %H:%M:%S")
+print(t)
