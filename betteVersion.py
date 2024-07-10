@@ -1,4 +1,4 @@
-from readAndWriteFiles import file_read,file_write
+from readAndWriteFiles import file_read, file_write
 # import readAndWriteFiles
 # If we keep like this then the functions belons to readAndWriteFiles file (file_read,file_write) should call as readAndWriteFiles.file_read
 import time
