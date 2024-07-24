@@ -9,6 +9,10 @@ if not os.path.exists('store.txt'):
     with open('store.txt', 'w') as file:
         pass
 
+
+
+
+
 time_ = G.Text('', key='t')
 label = G.Text('Enter the Data')
 InText = G.InputText(tooltip='Enter the Text', key='text')
